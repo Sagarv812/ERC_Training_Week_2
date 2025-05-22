@@ -28,3 +28,8 @@
 ## Data Storage
 - [EEPROM](https://docs.arduino.cc/learn/built-in-libraries/eeprom/)
 - [EEPROM Examples](https://docs.arduino.cc/learn/programming/eeprom-guide/)
+
+---
+
+## Cores & Threads
+- [Stuff](https://www.namehero.com/blog/cpu-cores-vs-threads-everything-you-need-to-know/)
