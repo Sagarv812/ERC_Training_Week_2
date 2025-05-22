@@ -13,8 +13,9 @@
 ---
 
 ## Communication
--[Protocols](https://medium.com/geekculture/microcontroller-connection-protocols-w1-i2c-spi-uart-7625ad013e60)
+- [Protocols](https://medium.com/geekculture/microcontroller-connection-protocols-w1-i2c-spi-uart-7625ad013e60)
 - [UART Example](https://docs.arduino.cc/micropython/communication/uart/)
+- [UART Everything](https://deepbluembedded.com/arduino-uart-example-tutorial/)
 
 ---
 
