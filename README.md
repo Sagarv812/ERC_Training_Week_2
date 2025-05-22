@@ -19,3 +19,4 @@
 
 ## MPU6050 IMU
 - [Usage](https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/)
+- [Using I2C Directly](https://forum.arduino.cc/t/i2c-protocol-tutorial-using-an-mpu6050/3875120)
