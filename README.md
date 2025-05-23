@@ -33,3 +33,4 @@
 
 ## Cores & Threads
 - [Stuff](https://www.namehero.com/blog/cpu-cores-vs-threads-everything-you-need-to-know/)
+- [Multi Core](https://www.techtarget.com/searchdatacenter/definition/multi-core-processor)
