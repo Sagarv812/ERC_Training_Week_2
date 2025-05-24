@@ -10,8 +10,8 @@ Well, it's a space shooter game, who doesn't like it? We felt that it was simnpl
 | SSD1306 OLED | 209 | [Here](https://robu.in/product/0-96-inch-128x64-ssd1306-iic-interface-4-pin-oled-module-blue-color-screen/) |
 | Push Button | 20 | [Here](https://robu.in/product/0-96-inch-128x64-ssd1306-iic-interface-4-pin-oled-module-blue-color-screen/) |
 | Breadboard | 35 | [Here](https://robu.in/product/solderless-400-pin-breadboard-normal-quality-without-packing/) |
-| --- | --- |
-| Total | 624 |
+
+**Total =  624**
 
 ## Circuit Diagram
 ![Circuit Diagram](./media/circuit_diagram.png)
