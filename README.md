@@ -1,7 +1,7 @@
 # 🧭 Microcontrollers and Peripherals Learning Roadmap
 
 - [Basic](https://www.renesas.com/en/support/engineer-school/mcu-programming-peripherals-01-gpio?srsltid=AfmBOook9IGdlzMRN3uEcLX7hU-N4Dqs3dF8YJS9AGzY_uVE5iT2rgJh)
-
+- [Microcontroller Basics](https://www.geeksforgeeks.org/microcontroller-and-its-types/)
 ---
 
 ## Hardware
@@ -9,13 +9,15 @@
 - [Peripherals(GPIO)](https://www.renesas.com/en/support/engineer-school/mcu-programming-peripherals-01-gpio?srsltid=AfmBOook9IGdlzMRN3uEcLX7hU-N4Dqs3dF8YJS9AGzY_uVE5iT2rgJh)
 - [Overview of Components](https://docs.arduino.cc/tutorials/uno-rev3/intro-to-board/)
 - [Interfacing Peripherals](https://www.maven-silicon.com/blog/interfacing-peripherals-with-microcontrollers-a-hands-on-guide/)
-
+- [Microcontroller peripherals](https://embeddedinventor.com/9-essential-microcontroller-peripherals-explained/)
+- [Course on embedded systems](https://embedded.fm/blog/ese101)
 ---
 
 ## Communication
 - [Protocols](https://medium.com/geekculture/microcontroller-connection-protocols-w1-i2c-spi-uart-7625ad013e60)
 - [UART Example](https://docs.arduino.cc/micropython/communication/uart/)
 - [UART Everything](https://deepbluembedded.com/arduino-uart-example-tutorial/)
+- [I2c, UART, SPI](https://www.parlezvoustech.com/en/comparaison-protocoles-communication-i2c-spi-uart/)
 
 ---
 
@@ -29,7 +31,8 @@
 ## Data Storage
 - [EEPROM](https://docs.arduino.cc/learn/built-in-libraries/eeprom/)
 - [EEPROM Examples](https://docs.arduino.cc/learn/programming/eeprom-guide/)
-
+- [Flash Memory explained](https://www.youtube.com/watch?v=r2KaVfSH884)
+- 
 ---
 
 ## Cores & Threads
