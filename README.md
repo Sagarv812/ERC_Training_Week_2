@@ -40,7 +40,7 @@ Now what are peripherals and how do we connect them to an Arduino?
 - 🌐 [I2c, UART, SPI](https://www.parlezvoustech.com/en/comparaison-protocoles-communication-i2c-spi-uart/)
 
 Here is the code for SPI LCD display (easy 🙂):
-```
+```cpp
 #include <Adafruit_GFX.h>
 #include <Adafruit_ILI9341.h>
 #include <SPI.h>
