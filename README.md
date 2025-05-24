@@ -445,21 +445,22 @@ void loop() {
 ---
 
 ## Data Storage
-- [EEPROM](https://docs.arduino.cc/learn/built-in-libraries/eeprom/)
-- [EEPROM Examples](https://docs.arduino.cc/learn/programming/eeprom-guide/)
-- [Flash Memory explained](https://www.youtube.com/watch?v=r2KaVfSH884)
-- 
+- 🌐 [EEPROM](https://docs.arduino.cc/learn/built-in-libraries/eeprom/)
+- 🌐 [EEPROM Examples](https://docs.arduino.cc/learn/programming/eeprom-guide/)
+- 📺 [Flash Memory explained](https://www.youtube.com/watch?v=r2KaVfSH884)
+- 📺 [How to use SD Card with Arduino](https://youtu.be/fwFTuEdNGpM?si=FOSy4jqY56uI27OY)
 ---
 
 ## Cores & Threads
-- [Stuff](https://www.namehero.com/blog/cpu-cores-vs-threads-everything-you-need-to-know/)
-- [Multi Core](https://www.techtarget.com/searchdatacenter/definition/multi-core-processor)
-- [Multi Thread](https://www.geeksforgeeks.org/multithreading-in-operating-system/)
+- 🌐 [Basic](https://www.namehero.com/blog/cpu-cores-vs-threads-everything-you-need-to-know/)
+- 🌐 [Multi Core](https://www.techtarget.com/searchdatacenter/definition/multi-core-processor)
+- 🌐 [Multi Thread](https://www.geeksforgeeks.org/multithreading-in-operating-system/)
+- 📺 [Cores vs Threads](https://youtu.be/hwTYDQ0zZOw?si=I7dRYEE75vgpBjo4)
 
 ---
 
 ## RTOS
-- [Info](https://www.geeksforgeeks.org/real-time-operating-system-rtos/)
+- 🌐 [Info](https://www.geeksforgeeks.org/real-time-operating-system-rtos/)
 
 ---
 Here is the Arduino Uno Pin digram with ample labelling to suit all your needs:
