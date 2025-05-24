@@ -59,4 +59,4 @@ Now what are peripherals and how do we connect them to an Arduino?
 
 --
 
-![Arduino Pinout Diagram](./resources/
+![Arduino Pinout Diagram](./resources/arduino_pin.png)
