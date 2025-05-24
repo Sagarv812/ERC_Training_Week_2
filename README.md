@@ -8,6 +8,9 @@ Hello! This covers the necessary topics to learn how to effectively use a microc
 If you want to skip everything and step right into coding with Arduino, here you go:
   - 📺 [Learn to Code with Arduino](https://youtu.be/BLrHTHUjPuw?si=poh2x0MUSpIbeLGe)
 
+Here's a simulator which you might find useful while learning the coming topics:
+- [Wokwi](wokwi.com)
+- [Tinkercad](tinkercad.com)
 
 ---
 
@@ -29,16 +32,17 @@ Now what are peripherals and how do we connect them to an Arduino?
 ---
 
 ## Communication
-- [Protocols](https://medium.com/geekculture/microcontroller-connection-protocols-w1-i2c-spi-uart-7625ad013e60)
-- [UART Example](https://docs.arduino.cc/micropython/communication/uart/)
-- [UART Everything](https://deepbluembedded.com/arduino-uart-example-tutorial/)
-- [I2c, UART, SPI](https://www.parlezvoustech.com/en/comparaison-protocoles-communication-i2c-spi-uart/)
+- 🌐 [Protocols](https://medium.com/geekculture/microcontroller-connection-protocols-w1-i2c-spi-uart-7625ad013e60)
+- 📖 [More in depth about Communication Protocols](./resources/Communication_Protocols.pdf)
+- 🌐 [UART Example](https://docs.arduino.cc/micropython/communication/uart/)
+- 🌐 [UART Everything](https://deepbluembedded.com/arduino-uart-example-tutorial/)
+- 🌐 [I2c, UART, SPI](https://www.parlezvoustech.com/en/comparaison-protocoles-communication-i2c-spi-uart/)
 
 ---
 
 ## MPU6050 IMU
 - [Usage](https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/)
-- [Using I2C Directly](https://forum.arduino.cc/t/i2c-protocol-tutorial-using-an-mpu6050/3875120)
+  
 - [Examples](https://electronoobs.com/eng_arduino_tut76.php)
 
 ---
