@@ -58,5 +58,5 @@ Now what are peripherals and how do we connect them to an Arduino?
 - [Info](https://www.geeksforgeeks.org/real-time-operating-system-rtos/)
 
 ---
-
+Here is the Arduino Uno Pin digram with ample labelling to suit all your needs:
 ![Arduino Pinout Diagram](./resources/arduino_pin.png "Arduino Pin Diagram")
