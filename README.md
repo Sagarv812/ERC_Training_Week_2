@@ -57,6 +57,6 @@ Now what are peripherals and how do we connect them to an Arduino?
 ## RTOS
 - [Info](https://www.geeksforgeeks.org/real-time-operating-system-rtos/)
 
---
+---
 
-![Arduino Pinout Diagram](./resources/arduino_pin.png)
+![Arduino Pinout Diagram](./resources/arduino_pin.png "Arduino Pin Diagram")
