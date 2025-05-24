@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0de47c6d-8c05-482b-be92-341c5789173e)# 🧭 Microcontrollers and Peripherals Learning Roadmap
+# 🧭 Microcontrollers and Peripherals Learning Roadmap
 Hello! This covers the necessary topics to learn how to effectively use a microcontroller. Please note that all the code given in the below roadmap is written with Arduino UNO in mind.
 
 - 🌐 [Microcontroller Basics](https://www.geeksforgeeks.org/microcontroller-and-its-types/)
