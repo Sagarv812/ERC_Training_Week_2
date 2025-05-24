@@ -12,9 +12,13 @@ If you want to skip everything and step right into coding with Arduino, here you
 
 ## Hardware
 This is a collection of resources to fully understand appreciate how an Arduino is built!
+
+Let's start off by seeing what an Arduino consists of:
 - [Understanding Hardware](https://www.allaboutcircuits.com/technical-articles/understanding-arduino-uno-hardware-design/)
-- [Peripherals(GPIO)](https://www.renesas.com/en/support/engineer-school/mcu-programming-peripherals-01-gpio?srsltid=AfmBOook9IGdlzMRN3uEcLX7hU-N4Dqs3dF8YJS9AGzY_uVE5iT2rgJh)
 - [Overview of Components](https://docs.arduino.cc/tutorials/uno-rev3/intro-to-board/)
+
+- [Peripherals(GPIO)](https://www.renesas.com/en/support/engineer-school/mcu-programming-peripherals-01-gpio?srsltid=AfmBOook9IGdlzMRN3uEcLX7hU-N4Dqs3dF8YJS9AGzY_uVE5iT2rgJh)
+
 - [Interfacing Peripherals](https://www.maven-silicon.com/blog/interfacing-peripherals-with-microcontrollers-a-hands-on-guide/)
 - [Microcontroller peripherals](https://embeddedinventor.com/9-essential-microcontroller-peripherals-explained/)
 - [Course on embedded systems](https://embedded.fm/blog/ese101)
