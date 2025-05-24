@@ -1,7 +1,6 @@
 # 🧭 Microcontrollers and Peripherals Learning Roadmap
 Hello! This covers the necessary topics to learn how to effectively use a microcontroller. Please note that all the code given in the below roadmap is written with Arduino UNO in mind.
 
-- [Basic](https://www.renesas.com/en/support/engineer-school/mcu-programming-peripherals-01-gpio?srsltid=AfmBOook9IGdlzMRN3uEcLX7hU-N4Dqs3dF8YJS9AGzY_uVE5iT2rgJh)
 - [Microcontroller Basics](https://www.geeksforgeeks.org/microcontroller-and-its-types/)
 ---
 
