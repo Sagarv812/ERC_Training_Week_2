@@ -10,6 +10,7 @@ If you want to skip everything and step right into coding with Arduino, here you
 ---
 
 ## Hardware
+This is a collection of resources to fully understand appreciate how an Arduino is built!
 - [Understanding Hardware](https://www.allaboutcircuits.com/technical-articles/understanding-arduino-uno-hardware-design/)
 - [Peripherals(GPIO)](https://www.renesas.com/en/support/engineer-school/mcu-programming-peripherals-01-gpio?srsltid=AfmBOook9IGdlzMRN3uEcLX7hU-N4Dqs3dF8YJS9AGzY_uVE5iT2rgJh)
 - [Overview of Components](https://docs.arduino.cc/tutorials/uno-rev3/intro-to-board/)
