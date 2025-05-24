@@ -36,7 +36,57 @@ Now what are peripherals and how do we connect them to an Arduino?
 - 📖 [More in depth about Communication Protocols](./resources/Communication_Protocols.pdf)
 - 🌐 [UART Example](https://docs.arduino.cc/micropython/communication/uart/)
 - 🌐 [UART Everything](https://deepbluembedded.com/arduino-uart-example-tutorial/)
+- 📺 [Video on UART Communication](https://youtu.be/LubYc87S9tQ?si=WZDt6tsg7JWMZifw)
 - 🌐 [I2c, UART, SPI](https://www.parlezvoustech.com/en/comparaison-protocoles-communication-i2c-spi-uart/)
+
+Here is the code for SPI LCD display (easy 🙂):
+```
+#include <Adafruit_GFX.h>
+#include <Adafruit_ILI9341.h>
+#include <SPI.h>
+
+// Define SPI pins
+#define TFT_CS     10
+#define TFT_DC     8
+#define TFT_RST    9  // You can also use -1 if tied to Arduino RESET
+
+Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC, TFT_RST);
+
+// Define rainbow colors
+uint16_t rainbowColors[] = {
+  ILI9341_RED,
+  ILI9341_ORANGE,
+  ILI9341_YELLOW,
+  ILI9341_GREEN,
+  ILI9341_CYAN,
+  ILI9341_BLUE,
+  ILI9341_MAGENTA
+};
+
+void setup() {
+  tft.begin();
+  tft.fillScreen(ILI9341_BLACK);
+
+  tft.setTextSize(3);
+  tft.setTextWrap(false);
+
+  int x = 20;
+  int y = 100;
+  const char* msg = "Hello World";
+
+  for (int i = 0; msg[i] != '\0'; i++) {
+    tft.setCursor(x, y);
+    tft.setTextColor(rainbowColors[i % 7]);
+    tft.print(msg[i]);
+    x += 18; // Adjust spacing for size 3 text
+  }
+}
+
+void loop() {
+  // Nothing to do in loop
+}
+
+```
 
 ---
 
