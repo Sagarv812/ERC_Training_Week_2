@@ -2,6 +2,14 @@
 
 ## Why this?
 Well, it's a space shooter game, who doesn't like it? We felt that it was simnple enough to put together while also being complicated enough to induce learning. It is also very fun to play. Inspired by the space shooter - Galaga - this is made to have fun and learn a whole lot along the way.
+### Bill of Materials
+| Item | Cost | Link |
+| --- | --- | --- |
+| Arduino Uno | 195 | [Here](https://robu.in/product/arduino-nano-board-r3-with-ch340-chip-wo-usb-cable-solderedarduino-nano-r3-wo-usb-cable-soldered/?gad_source=1&gad_campaignid=21296336107&gbraid=0AAAAADvLFWcfpR3ko8Q9OLzHBNkhMrRTJ&gclid=CjwKCAjw3MXBBhAzEiwA0vLXQeTpaUv2C_AWv_vWnXh7a2x6_TDckb190d0m9Ib6GNEHH4jFwP5apxoC7f4QAvD_BwE) |
+| MPU6050 | 165 | [Here](https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/) |
+| SSD1306 OLED | 209 | [Here](https://robu.in/product/0-96-inch-128x64-ssd1306-iic-interface-4-pin-oled-module-blue-color-screen/) |
+| Push Button | 20 | [Here](https://robu.in/product/0-96-inch-128x64-ssd1306-iic-interface-4-pin-oled-module-blue-color-screen/) |
+| Breadboard | 35 | [Here](https://robu.in/product/solderless-400-pin-breadboard-normal-quality-without-packing/) |
 
 ## Circuit Diagram
 ![Circuit Diagram](./media/circuit_diagram.png)
