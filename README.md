@@ -1,4 +1,4 @@
-# 🧭 Microcontrollers and Peripherals Learning Roadmap
+![image](https://github.com/user-attachments/assets/0de47c6d-8c05-482b-be92-341c5789173e)# 🧭 Microcontrollers and Peripherals Learning Roadmap
 Hello! This covers the necessary topics to learn how to effectively use a microcontroller. Please note that all the code given in the below roadmap is written with Arduino UNO in mind.
 
 - 🌐 [Microcontroller Basics](https://www.geeksforgeeks.org/microcontroller-and-its-types/)
@@ -19,10 +19,13 @@ Let's start off by seeing what an Arduino consists of:
 - [Overview of Components](https://docs.arduino.cc/tutorials/uno-rev3/intro-to-board/)
 
 Now what are peripherals and how do we connect them to an Arduino?
-- [Peripherals(GPIO)](https://www.renesas.com/en/support/engineer-school/mcu-programming-peripherals-01-gpio?srsltid=AfmBOook9IGdlzMRN3uEcLX7hU-N4Dqs3dF8YJS9AGzY_uVE5iT2rgJh)
-- [Interfacing Peripherals](https://www.maven-silicon.com/blog/interfacing-peripherals-with-microcontrollers-a-hands-on-guide/)
-- [Microcontroller peripherals](https://embeddedinventor.com/9-essential-microcontroller-peripherals-explained/)
-- [Course on embedded systems](https://embedded.fm/blog/ese101)
+- 🌐 [Peripherals(GPIO)](https://www.renesas.com/en/support/engineer-school/mcu-programming-peripherals-01-gpio?srsltid=AfmBOook9IGdlzMRN3uEcLX7hU-N4Dqs3dF8YJS9AGzY_uVE5iT2rgJh)
+- 🌐 [Interfacing Peripherals](https://www.maven-silicon.com/blog/interfacing-peripherals-with-microcontrollers-a-hands-on-guide/)
+- 🌐 [Microcontroller peripherals](https://embeddedinventor.com/9-essential-microcontroller-peripherals-explained/)
+- 🌐 [Course on embedded systems](https://embedded.fm/blog/ese101)
+- 📺 [Detailed Video on GPIOs](https://youtu.be/Naz_qLfcWpg?si=o9IsMjnijAiqaLiN)
+
+
 ---
 
 ## Communication
