@@ -27,6 +27,7 @@ Now what are peripherals and how do we connect them to an Arduino?
 - 🌐 [Microcontroller peripherals](https://embeddedinventor.com/9-essential-microcontroller-peripherals-explained/)
 - 🌐 [Course on embedded systems](https://embedded.fm/blog/ese101)
 - 📺 [Detailed Video on GPIOs](https://youtu.be/Naz_qLfcWpg?si=o9IsMjnijAiqaLiN)
+- 🌐 [GPIOs Working explained](https://embetronicx.com/tutorials/tech_devices/understanding-the-microcontroller-gpio-gpio-working-explained/)
 
 
 ---
@@ -456,11 +457,17 @@ void loop() {
 - 🌐 [Multi Core](https://www.techtarget.com/searchdatacenter/definition/multi-core-processor)
 - 🌐 [Multi Thread](https://www.geeksforgeeks.org/multithreading-in-operating-system/)
 - 📺 [Cores vs Threads](https://youtu.be/hwTYDQ0zZOw?si=I7dRYEE75vgpBjo4)
+- 📺 [Threads on a single core](https://m.youtube.com/watch?v=M9HHWFp84f0&t=543s)
+- 📺 [Threads on a multi core](https://m.youtube.com/watch?v=5sw9XJokAqw&t=144s)
 
 ---
 
 ## RTOS
+- 📺 [What is a process?](https://m.youtube.com/watch?v=LDhoD4IVElk&t=12s)
 - 🌐 [Info](https://www.geeksforgeeks.org/real-time-operating-system-rtos/)
+- 🌐 [RTOS Basics](https://embetronicx.com/tutorials/rtos/freertos/rtos-basic-tutorial-for-beginners/)
+- 🌐 [RTOS Advanced](https://embetronicx.com/tutorials/rtos/freertos/rtos-advanced-tutorial-for-beginners/)
+- 🌐 [Learning with hands-on projects](https://m.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz)
 
 ---
 Here is the Arduino Uno Pin digram with ample labelling to suit all your needs:
